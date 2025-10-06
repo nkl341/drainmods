@@ -2,7 +2,7 @@
 setlocal
 
 :: Set the path to the ZIP file
-set "ZIP_FILE=mod.zip"
+set "ZIP_FILE=drainmodsV2.zip"
 
 :: Set the destination directory
 set "DEST_DIR=%APPDATA%\.minecraft\mods"
